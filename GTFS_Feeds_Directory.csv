@@ -1,0 +1,57 @@
+Country,PT_Authority,Feed_Location,Time_Zone,PT_Mode,GTFS_Type,Feed_URL,API_Key_Required
+Australia,Adelaide Metro,Adelaide,Australia/Adelaide,All,Static,https://gtfs.adelaidemetro.com.au/v1/static/latest/google_transit.zip,No
+Australia,Adelaide Metro,Adelaide,Australia/Adelaide,All,Static_VersionInfo,https://gtfs.adelaidemetro.com.au/v1/static/latest/version.txt,No
+Australia,Adelaide Metro,Adelaide,Australia/Adelaide,All,RT_TU,https://gtfs.adelaidemetro.com.au/v1/realtime/trip_updates,No
+Australia,Adelaide Metro,Adelaide,Australia/Adelaide,All,RT_VP,https://gtfs.adelaidemetro.com.au/v1/realtime/vehicle_positions,No
+Australia,Adelaide Metro,Adelaide,Australia/Adelaide,All,RT_SA,https://gtfs.adelaidemetro.com.au/v1/realtime/service_alerts,No
+Australia,Adelaide Metro,Adelaide,Australia/Adelaide,All,RT_proto,https://gtfs.adelaidemetro.com.au/v1/realtime/adelaidemetro_gtfsr.proto,No
+Australia,TransLink,South East QLD,Australia/Brisbane,All,Static,https://gtfsrt.api.translink.com.au/GTFS/SEQ_GTFS.zip,No
+Australia,TransLink,South East QLD,Australia/Brisbane,All,RT_TU,https://gtfsrt.api.translink.com.au/api/realtime/SEQ/TripUpdates,No
+Australia,TransLink,South East QLD,Australia/Brisbane,All,RT_VP,https://gtfsrt.api.translink.com.au/api/realtime/SEQ/VehiclePositions,No
+Australia,TransLink,South East QLD,Australia/Brisbane,All,RT_SA,https://gtfsrt.api.translink.com.au/api/realtime/SEQ/Alerts,No
+Australia,TransLink,Cairns,Australia/Queensland,All,Static,https://gtfsrt.api.translink.com.au/GTFS/CNS_GTFS.zip,No
+Australia,TransLink,Cairns,Australia/Queensland,All,RT_TU,https://gtfsrt.api.translink.com.au/api/realtime/CNS/TripUpdates,No
+Australia,TransLink,Cairns,Australia/Queensland,All,RT_VP,https://gtfsrt.api.translink.com.au/api/realtime/CNS/VehiclePositions,No
+Australia,TransLink,Cairns,Australia/Queensland,All,RT_SA,https://gtfsrt.api.translink.com.au/api/realtime/CNS/Alerts,No
+Australia,TransLink,North Stradbroke Island,Australia/Queensland,All,Static,https://gtfsrt.api.translink.com.au/GTFS/NSI_GTFS.zip,No
+Australia,TransLink,North Stradbroke Island,Australia/Queensland,All,RT_TU,https://gtfsrt.api.translink.com.au/api/realtime/NSI/TripUpdates,No
+Australia,TransLink,North Stradbroke Island,Australia/Queensland,All,RT_VP,https://gtfsrt.api.translink.com.au/api/realtime/NSI/VehiclePositions,No
+Australia,TransLink,North Stradbroke Island,Australia/Queensland,All,RT_SA,https://gtfsrt.api.translink.com.au/api/realtime/NSI/Alerts,No
+Australia,TransLink,Maryborough Hervey Bay,Australia/Queensland,All,Static,https://gtfsrt.api.translink.com.au/GTFS/MHB_GTFS.zip,No
+Australia,TransLink,Maryborough Hervey Bay,Australia/Queensland,All,RT_TU,https://gtfsrt.api.translink.com.au/api/realtime/MHB/TripUpdates,No
+Australia,TransLink,Maryborough Hervey Bay,Australia/Queensland,All,RT_VP,https://gtfsrt.api.translink.com.au/api/realtime/MHB/VehiclePositions,No
+Australia,TransLink,Maryborough Hervey Bay,Australia/Queensland,All,RT_SA,https://gtfsrt.api.translink.com.au/api/realtime/MHB/Alerts,No
+Australia,TransLink,Bowen,Australia/Queensland,All,Static,https://gtfsrt.api.translink.com.au/GTFS/BOW_GTFS.zip,No
+Australia,TransLink,Bowen,Australia/Queensland,All,RT_TU,https://gtfsrt.api.translink.com.au/api/realtime/BOW/TripUpdates,No
+Australia,TransLink,Bowen,Australia/Queensland,All,RT_VP,https://gtfsrt.api.translink.com.au/api/realtime/BOW/VehiclePositions,No
+Australia,TransLink,Bowen,Australia/Queensland,All,RT_SA,https://gtfsrt.api.translink.com.au/api/realtime/BOW/Alerts,No
+Australia,TransLink,Innisfail,Australia/Queensland,All,Static,https://gtfsrt.api.translink.com.au/GTFS/INN_GTFS.zip,No
+Australia,TransLink,Innisfail,Australia/Queensland,All,RT_TU,https://gtfsrt.api.translink.com.au/api/realtime/INN/TripUpdates,No
+Australia,TransLink,Innisfail,Australia/Queensland,All,RT_VP,https://gtfsrt.api.translink.com.au/api/realtime/INN/VehiclePositions,No
+Australia,TransLink,Innisfail,Australia/Queensland,All,RT_SA,https://gtfsrt.api.translink.com.au/api/realtime/INN/Alerts,No
+Australia,Transport for NSW,New South Wales,Australia/Sydney,All,Static,https://api.transport.nsw.gov.au/v1/publictransport/timetables/complete/gtfs,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,All,RT_SA,https://api.transport.nsw.gov.au/v1/gtfs/alerts/all,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Buses,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/buses,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Buses,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Sydney Trains,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/sydneytrains,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Sydney Trains,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/sydneytrains,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Ferries,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/ferries/sydneyferries,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Ferries,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/ferries/sydneyferries,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Light Rail,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/lightrail,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Light Rail,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/lightrail,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,NSW Trains,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/nswtrains,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,NSW Trains,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/nswtrains,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Region Buses,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/regionbuses,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Region Buses,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/regionbuses,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Metro,RT_TU,https://api.transport.nsw.gov.au/v1/gtfs/realtime/metro,Yes
+Australia,Transport for NSW,New South Wales,Australia/Sydney,Metro,RT_VP,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/metro,Yes
+Australia,Transport Canberra,Canberra,Australia/Canberra,Light Rail,RT_SA,https://www.transport.act.gov.au/googletransit/google_transit_lr.zip,No
+Australia,Transport Canberra,Canberra,Australia/Canberra,Light Rail,RT_TU,http://files.transport.act.gov.au/feeds/lightrail.pb,No
+New Zealand,Auckland Transport,Auckland,Pacific/Auckland,All,Static,,Yes
+New Zealand,Auckland Transport,Auckland,Pacific/Auckland,All,RT_TU,,Yes
+New Zealand,Auckland Transport,Auckland,Pacific/Auckland,All,RT_VP,,Yes
+New Zealand,Auckland Transport,Auckland,Pacific/Auckland,All,RT_SA,,Yes
+New Zealand,Environment Canterbury / Metro,Canterbury,Pacific/Auckland,All,Static,https://apis.metroinfo.co.nz/rti/gtfs/v1/gtfs.zip,Yes
+New Zealand,Environment Canterbury / Metro,Canterbury,Pacific/Auckland,All,RT_TU,https://apis.metroinfo.co.nz/rti/gtfsrt/v1/trip-updates.pb,Yes
+New Zealand,Environment Canterbury / Metro,Canterbury,Pacific/Auckland,All,RT_VP,https://apis.metroinfo.co.nz/rti/gtfsrt/v1/vehicle-positions.pb,Yes
+New Zealand,Environment Canterbury / Metro,Canterbury,Pacific/Auckland,All,RT_SA,https://apis.metroinfo.co.nz/rti/gtfsrt/v1/service-alerts.pb,Yes
